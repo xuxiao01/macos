@@ -7,81 +7,81 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		05329E38751C381AA3CE9CFED96E626C /* Pods-mac-os-a-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = B4FB83CD4AF06851F2AA537FDB91A424 /* Pods-mac-os-a-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		120217E233523D4C11A294A8C10AEA34 /* Pods-mac-os-aTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4E3F8382A623C203336A296E23F48870 /* Pods-mac-os-aTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3A01FD30FE24D6608DA6CBEF97E27FEF /* Pods-mac-os-aUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 670C2097D6DF79C1EFF5354FA7355C00 /* Pods-mac-os-aUITests-dummy.m */; };
-		3BDA7C6462C8D2FA7B110DC45D2B890B /* Pods-mac-os-a-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 987F80D8FA5B182C9423EF7F5B4EB4B7 /* Pods-mac-os-a-dummy.m */; };
-		4F41A5B811CF9DAD5DA8AFA4DC94027A /* Pods-mac-os-aUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 19B9F00DEDE8121221008D6EA2EA4194 /* Pods-mac-os-aUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		918B57B56F3B1B74B3D841F7A0F1E50B /* Pods-mac-os-aTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 26DF563C686AC815C6B740F349997C5C /* Pods-mac-os-aTests-dummy.m */; };
-		9B3A75B888C2D0B7CEF85C857748C20A /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 270DD1219F1E6CF00379D39F252D87C6 /* Cocoa.framework */; };
-		B9EDE0AE1428150EB7A212A16B3992ED /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 270DD1219F1E6CF00379D39F252D87C6 /* Cocoa.framework */; };
-		E1F9BAF061A815FD1C280E000E1F19E1 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 270DD1219F1E6CF00379D39F252D87C6 /* Cocoa.framework */; };
+		0B7F6F37756056EE109F37AA1351D35E /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 270DD1219F1E6CF00379D39F252D87C6 /* Cocoa.framework */; };
+		11855D13BBA6003840BD7588E282E437 /* Pods-macoshelloUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 37200D4FD39498F924ABD1E88A9EA770 /* Pods-macoshelloUITests-dummy.m */; };
+		2982009E9CAD38CB248A9303C4711ADB /* Pods-macoshello-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 75B298D7F947D78B308E9ABC7789EB60 /* Pods-macoshello-dummy.m */; };
+		6455452B5D813FC0C861679C6355F88D /* Pods-macoshello-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = DB3EF04C71FCDB9E12AFE42BAC7DF446 /* Pods-macoshello-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		980A42BCD7853B9AB9B29BED1435996D /* Pods-macoshelloTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 232A9115BE0A5F0494879EF5356B8A15 /* Pods-macoshelloTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B7AC4D0825716C506D7F8473F5AE144C /* Pods-macoshelloUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 45CADA7EDD40F18CF9D4396EE16F1173 /* Pods-macoshelloUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DDF857E70531F726376FA604FD55FF02 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 270DD1219F1E6CF00379D39F252D87C6 /* Cocoa.framework */; };
+		F73B25985325A2B8191B81616139EF52 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 270DD1219F1E6CF00379D39F252D87C6 /* Cocoa.framework */; };
+		FAA11C96F20ABFA656BF482F5DEC1143 /* Pods-macoshelloTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CBFEE073244A4C8ED5E3CF40B492AFE1 /* Pods-macoshelloTests-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0577EA314154569E8BEDE60B55F39B2B /* Pods-mac-os-aTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mac-os-aTests.modulemap"; sourceTree = "<group>"; };
-		1195286C74FC0BC85BEC942564DF6ABE /* Pods_mac_os_aTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_mac_os_aTests.framework; path = "Pods-mac-os-aTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		19B9F00DEDE8121221008D6EA2EA4194 /* Pods-mac-os-aUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mac-os-aUITests-umbrella.h"; sourceTree = "<group>"; };
-		1F9DD8CCD2F13DB5BA63E1BDC4DB42D2 /* Pods-mac-os-a-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mac-os-a-acknowledgements.markdown"; sourceTree = "<group>"; };
-		26DF563C686AC815C6B740F349997C5C /* Pods-mac-os-aTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mac-os-aTests-dummy.m"; sourceTree = "<group>"; };
+		009BAC5CAFEAE86BE624C529AD3937CF /* Pods-macoshelloUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-macoshelloUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		04B738B4C7465402A42F74719A7F299C /* Pods-macoshelloUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-macoshelloUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		1A2C1C53C97F1548FD142793BEE6BB50 /* Pods-macoshello-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-macoshello-frameworks.sh"; sourceTree = "<group>"; };
+		1DFFF4461D05A0E7D154DB732AF39DE1 /* Pods-macoshelloTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-macoshelloTests.debug.xcconfig"; sourceTree = "<group>"; };
+		232A9115BE0A5F0494879EF5356B8A15 /* Pods-macoshelloTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-macoshelloTests-umbrella.h"; sourceTree = "<group>"; };
 		270DD1219F1E6CF00379D39F252D87C6 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.12.sdk/System/Library/Frameworks/Cocoa.framework; sourceTree = DEVELOPER_DIR; };
-		351EBFD8D7C2C08DF3CF5EDCA6680319 /* Pods-mac-os-aTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mac-os-aTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		3CC8B3FDBC7AFF82C78ACCA9FE971CEB /* Pods-mac-os-aUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mac-os-aUITests-resources.sh"; sourceTree = "<group>"; };
-		4E3F8382A623C203336A296E23F48870 /* Pods-mac-os-aTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mac-os-aTests-umbrella.h"; sourceTree = "<group>"; };
+		2DA72C7EDE1B272DA4F62419542CC378 /* Pods-macoshello.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-macoshello.modulemap"; sourceTree = "<group>"; };
+		349A5F97E1E46521F1C081789D44224B /* Pods_macoshelloTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_macoshelloTests.framework; path = "Pods-macoshelloTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		37200D4FD39498F924ABD1E88A9EA770 /* Pods-macoshelloUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-macoshelloUITests-dummy.m"; sourceTree = "<group>"; };
+		3FA42057406F322D20B72DE6623282AD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		443D334F6694C20C94732D87C3E259D1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45CADA7EDD40F18CF9D4396EE16F1173 /* Pods-macoshelloUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-macoshelloUITests-umbrella.h"; sourceTree = "<group>"; };
+		462CD7280B3460816BA57F8D22900B7D /* Pods-macoshelloUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-macoshelloUITests-frameworks.sh"; sourceTree = "<group>"; };
 		580A14A48AB912B0EA25308BEEADDFCA /* AppCenterCrashes.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterCrashes.framework; path = "AppCenter-SDK-Apple/macOS/AppCenterCrashes.framework"; sourceTree = "<group>"; };
-		5884A08A086FC215F9F57B56D8D8D828 /* Pods_mac_os_a.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_mac_os_a.framework; path = "Pods-mac-os-a.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		59A4D32CCAD2E1241D282DD26ED3CB19 /* Pods-mac-os-a.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mac-os-a.debug.xcconfig"; sourceTree = "<group>"; };
-		5ABE7729BABBFBDADD1EF0AEA14DE9D7 /* Pods-mac-os-aTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mac-os-aTests.release.xcconfig"; sourceTree = "<group>"; };
-		670C2097D6DF79C1EFF5354FA7355C00 /* Pods-mac-os-aUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mac-os-aUITests-dummy.m"; sourceTree = "<group>"; };
+		5DC5D9ED7450D1CEE4FAB68E038D76E6 /* Pods-macoshelloUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-macoshelloUITests-resources.sh"; sourceTree = "<group>"; };
+		659467273629D5E76A8EEDCFDADD0C93 /* Pods-macoshelloUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-macoshelloUITests.modulemap"; sourceTree = "<group>"; };
+		708F589CEE390B3B65FC733C8C921CB7 /* Pods-macoshello-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-macoshello-acknowledgements.plist"; sourceTree = "<group>"; };
+		72952E623C4C2EBB8CAD1DA24635E449 /* Pods-macoshelloTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-macoshelloTests-resources.sh"; sourceTree = "<group>"; };
+		75B298D7F947D78B308E9ABC7789EB60 /* Pods-macoshello-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-macoshello-dummy.m"; sourceTree = "<group>"; };
 		763628B384EE5811AE215D353AEE4257 /* AppCenterPush.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterPush.framework; path = "AppCenter-SDK-Apple/macOS/AppCenterPush.framework"; sourceTree = "<group>"; };
-		8560CF9B816516BF10C3BB417B39AD9D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8B77A140AF59479DEB587E9DA952DAA7 /* Pods-mac-os-aTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mac-os-aTests.debug.xcconfig"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		93D569673708D191A564F6395A0E7196 /* Pods-mac-os-a-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mac-os-a-frameworks.sh"; sourceTree = "<group>"; };
-		987F80D8FA5B182C9423EF7F5B4EB4B7 /* Pods-mac-os-a-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-mac-os-a-dummy.m"; sourceTree = "<group>"; };
-		9BD85D64DCA55E8AA9547556255734A3 /* Pods-mac-os-a-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mac-os-a-resources.sh"; sourceTree = "<group>"; };
-		9F4ED59CD47267F25864D6D21C7919C1 /* Pods-mac-os-aUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mac-os-aUITests.modulemap"; sourceTree = "<group>"; };
-		A2613C9DBBF6FF9B50B74EA453A7C149 /* Pods-mac-os-a.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-mac-os-a.modulemap"; sourceTree = "<group>"; };
-		ACA024E1B047D368745C42DDABA58AC9 /* Pods-mac-os-aUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mac-os-aUITests.release.xcconfig"; sourceTree = "<group>"; };
-		B154E2896B11749959958853910A33CD /* Pods-mac-os-a.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mac-os-a.release.xcconfig"; sourceTree = "<group>"; };
-		B4FB83CD4AF06851F2AA537FDB91A424 /* Pods-mac-os-a-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-mac-os-a-umbrella.h"; sourceTree = "<group>"; };
-		B91A9E1BCAEACFE80ABE146CE8C0AC16 /* Pods-mac-os-aUITests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mac-os-aUITests-frameworks.sh"; sourceTree = "<group>"; };
-		B94F14AC0CA76541B28DE79A2EFA46E9 /* Pods_mac_os_aUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_mac_os_aUITests.framework; path = "Pods-mac-os-aUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		BB075EE64703DD652B41CFC9FBF3BB8D /* Pods-mac-os-aTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mac-os-aTests-frameworks.sh"; sourceTree = "<group>"; };
-		C6E988ECE2FFF44128486D4C49792706 /* Pods-mac-os-aUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mac-os-aUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		D33016BC6B0496E98446EF94E43FC9B1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DBCC12108DE16AF774A43B76A6BA0D05 /* Pods-mac-os-aUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mac-os-aUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		DC5DAC71718E91774F0107781B75CBCD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DD738FDB425E32715B2EC9238733932C /* Pods-mac-os-aUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-mac-os-aUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		98B1DA307EC9CDD77F129894A90AA3F2 /* Pods-macoshello-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-macoshello-resources.sh"; sourceTree = "<group>"; };
+		9E8A03CC2B24C4A379AC3D433936D7B0 /* Pods-macoshelloTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-macoshelloTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		9F9971E7ADFDCDB40445118CBE54CEC1 /* Pods-macoshelloTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-macoshelloTests.modulemap"; sourceTree = "<group>"; };
+		AC1B175D07A0E0A085326CFB19819771 /* Pods_macoshello.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_macoshello.framework; path = "Pods-macoshello.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B3883DB349306907DBDA3854B175A440 /* Pods-macoshelloTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-macoshelloTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		C88C5F47CE7E7FC083D73C370ED391E2 /* Pods-macoshelloUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-macoshelloUITests.release.xcconfig"; sourceTree = "<group>"; };
+		CBFEE073244A4C8ED5E3CF40B492AFE1 /* Pods-macoshelloTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-macoshelloTests-dummy.m"; sourceTree = "<group>"; };
+		D24D64F520E601254FA287A9ED70A1CE /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DB3EF04C71FCDB9E12AFE42BAC7DF446 /* Pods-macoshello-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-macoshello-umbrella.h"; sourceTree = "<group>"; };
+		E13023606AEC39E68CBA5487082CEE86 /* Pods-macoshello.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-macoshello.debug.xcconfig"; sourceTree = "<group>"; };
 		E3D486CED75E110F9605CAD55087C5EB /* AppCenterAnalytics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterAnalytics.framework; path = "AppCenter-SDK-Apple/macOS/AppCenterAnalytics.framework"; sourceTree = "<group>"; };
-		E43E9A7D57853D5F8B42B359BE8FE049 /* Pods-mac-os-aTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-mac-os-aTests-resources.sh"; sourceTree = "<group>"; };
+		E4E3DEFF366621060F43D31F44098A0B /* Pods_macoshelloUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_macoshelloUITests.framework; path = "Pods-macoshelloUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E725FB160D10D820A79783FFEF95220B /* Pods-macoshello-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-macoshello-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E984E307773355CB86141CD9930D79EA /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/macOS/AppCenter.framework"; sourceTree = "<group>"; };
-		F109879263B24E6A2B06BB0508A1D8CF /* Pods-mac-os-aTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-mac-os-aTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		F322C5E2045C3A5F20364BE7A3688607 /* Pods-mac-os-a-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-mac-os-a-acknowledgements.plist"; sourceTree = "<group>"; };
+		EBB25F4D153BDFBFE63F7E727DAC6FC1 /* Pods-macoshelloTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-macoshelloTests.release.xcconfig"; sourceTree = "<group>"; };
+		F2D2DCC79BE328F83573F94F109DA9D6 /* Pods-macoshelloUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-macoshelloUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		F777E09353C36E614A1055BA1A95B3EE /* Pods-macoshello.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-macoshello.release.xcconfig"; sourceTree = "<group>"; };
+		F9E3D47ECD5B10E192B78E287B7E0E0E /* Pods-macoshelloTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-macoshelloTests-frameworks.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3B0CCD7F9E4B393979A8A37D852E39AB /* Frameworks */ = {
+		203978FA6AAE54FA6C611F0D3FE29602 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E1F9BAF061A815FD1C280E000E1F19E1 /* Cocoa.framework in Frameworks */,
+				F73B25985325A2B8191B81616139EF52 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A79D2E72A14180E01387571E8B9D0A95 /* Frameworks */ = {
+		78103387737C8950D55327D07E0B08E2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B3A75B888C2D0B7CEF85C857748C20A /* Cocoa.framework in Frameworks */,
+				0B7F6F37756056EE109F37AA1351D35E /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E5F8F8361603B2FF67FEED23696BE48F /* Frameworks */ = {
+		DADCE2D66D0F8ECE74E8F0AD502968D2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B9EDE0AE1428150EB7A212A16B3992ED /* Cocoa.framework in Frameworks */,
+				DDF857E70531F726376FA604FD55FF02 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -96,12 +96,76 @@
 			name = "OS X";
 			sourceTree = "<group>";
 		};
+		0688E3744C4AE83B45F32D5845DE3DC5 /* Pods-macoshelloUITests */ = {
+			isa = PBXGroup;
+			children = (
+				443D334F6694C20C94732D87C3E259D1 /* Info.plist */,
+				659467273629D5E76A8EEDCFDADD0C93 /* Pods-macoshelloUITests.modulemap */,
+				F2D2DCC79BE328F83573F94F109DA9D6 /* Pods-macoshelloUITests-acknowledgements.markdown */,
+				009BAC5CAFEAE86BE624C529AD3937CF /* Pods-macoshelloUITests-acknowledgements.plist */,
+				37200D4FD39498F924ABD1E88A9EA770 /* Pods-macoshelloUITests-dummy.m */,
+				462CD7280B3460816BA57F8D22900B7D /* Pods-macoshelloUITests-frameworks.sh */,
+				5DC5D9ED7450D1CEE4FAB68E038D76E6 /* Pods-macoshelloUITests-resources.sh */,
+				45CADA7EDD40F18CF9D4396EE16F1173 /* Pods-macoshelloUITests-umbrella.h */,
+				04B738B4C7465402A42F74719A7F299C /* Pods-macoshelloUITests.debug.xcconfig */,
+				C88C5F47CE7E7FC083D73C370ED391E2 /* Pods-macoshelloUITests.release.xcconfig */,
+			);
+			name = "Pods-macoshelloUITests";
+			path = "Target Support Files/Pods-macoshelloUITests";
+			sourceTree = "<group>";
+		};
+		093D846003621BC9839C2B6553D8ABB3 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				1EF29906A720E2B342964C830DE46C0E /* Pods-macoshello */,
+				4A50FCD68B790DDA888A7442DBC8A1A2 /* Pods-macoshelloTests */,
+				0688E3744C4AE83B45F32D5845DE3DC5 /* Pods-macoshelloUITests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		1EF29906A720E2B342964C830DE46C0E /* Pods-macoshello */ = {
+			isa = PBXGroup;
+			children = (
+				D24D64F520E601254FA287A9ED70A1CE /* Info.plist */,
+				2DA72C7EDE1B272DA4F62419542CC378 /* Pods-macoshello.modulemap */,
+				E725FB160D10D820A79783FFEF95220B /* Pods-macoshello-acknowledgements.markdown */,
+				708F589CEE390B3B65FC733C8C921CB7 /* Pods-macoshello-acknowledgements.plist */,
+				75B298D7F947D78B308E9ABC7789EB60 /* Pods-macoshello-dummy.m */,
+				1A2C1C53C97F1548FD142793BEE6BB50 /* Pods-macoshello-frameworks.sh */,
+				98B1DA307EC9CDD77F129894A90AA3F2 /* Pods-macoshello-resources.sh */,
+				DB3EF04C71FCDB9E12AFE42BAC7DF446 /* Pods-macoshello-umbrella.h */,
+				E13023606AEC39E68CBA5487082CEE86 /* Pods-macoshello.debug.xcconfig */,
+				F777E09353C36E614A1055BA1A95B3EE /* Pods-macoshello.release.xcconfig */,
+			);
+			name = "Pods-macoshello";
+			path = "Target Support Files/Pods-macoshello";
+			sourceTree = "<group>";
+		};
 		39E9EE8210D861DFD82346C1F5EB7218 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				04C068A18C5413F804A2959126093416 /* OS X */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		4A50FCD68B790DDA888A7442DBC8A1A2 /* Pods-macoshelloTests */ = {
+			isa = PBXGroup;
+			children = (
+				3FA42057406F322D20B72DE6623282AD /* Info.plist */,
+				9F9971E7ADFDCDB40445118CBE54CEC1 /* Pods-macoshelloTests.modulemap */,
+				B3883DB349306907DBDA3854B175A440 /* Pods-macoshelloTests-acknowledgements.markdown */,
+				9E8A03CC2B24C4A379AC3D433936D7B0 /* Pods-macoshelloTests-acknowledgements.plist */,
+				CBFEE073244A4C8ED5E3CF40B492AFE1 /* Pods-macoshelloTests-dummy.m */,
+				F9E3D47ECD5B10E192B78E287B7E0E0E /* Pods-macoshelloTests-frameworks.sh */,
+				72952E623C4C2EBB8CAD1DA24635E449 /* Pods-macoshelloTests-resources.sh */,
+				232A9115BE0A5F0494879EF5356B8A15 /* Pods-macoshelloTests-umbrella.h */,
+				1DFFF4461D05A0E7D154DB732AF39DE1 /* Pods-macoshelloTests.debug.xcconfig */,
+				EBB25F4D153BDFBFE63F7E727DAC6FC1 /* Pods-macoshelloTests.release.xcconfig */,
+			);
+			name = "Pods-macoshelloTests";
+			path = "Target Support Files/Pods-macoshelloTests";
 			sourceTree = "<group>";
 		};
 		4E9569E6C11D65F2A830BC8DEDE55DBE /* Core */ = {
@@ -132,16 +196,6 @@
 			path = AppCenter;
 			sourceTree = "<group>";
 		};
-		63F6BBC5A003778211E9D551EB3A907A /* Targets Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				B1C39CBAB1134CC95F68DC49F1832ADC /* Pods-mac-os-a */,
-				AA941BF1027C4AB5F14BFFAB11298F0D /* Pods-mac-os-aTests */,
-				EC1EC42A5594299F27AF0AEF5AC4E3CF /* Pods-mac-os-aUITests */,
-			);
-			name = "Targets Support Files";
-			sourceTree = "<group>";
-		};
 		6EE4023ECB692E82020A4D75190A770F /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -150,12 +204,12 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		741A14CB8D7A4DFAA2FC05AA3C0CD7C1 /* Products */ = {
+		75A4EBA23F1FDEEFC6369FF988C46C05 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				5884A08A086FC215F9F57B56D8D8D828 /* Pods_mac_os_a.framework */,
-				1195286C74FC0BC85BEC942564DF6ABE /* Pods_mac_os_aTests.framework */,
-				B94F14AC0CA76541B28DE79A2EFA46E9 /* Pods_mac_os_aUITests.framework */,
+				AC1B175D07A0E0A085326CFB19819771 /* Pods_macoshello.framework */,
+				349A5F97E1E46521F1C081789D44224B /* Pods_macoshelloTests.framework */,
+				E4E3DEFF366621060F43D31F44098A0B /* Pods_macoshelloUITests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -166,8 +220,8 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				39E9EE8210D861DFD82346C1F5EB7218 /* Frameworks */,
 				88BAA8D6162961ACBFFF1C61E2A82436 /* Pods */,
-				741A14CB8D7A4DFAA2FC05AA3C0CD7C1 /* Products */,
-				63F6BBC5A003778211E9D551EB3A907A /* Targets Support Files */,
+				75A4EBA23F1FDEEFC6369FF988C46C05 /* Products */,
+				093D846003621BC9839C2B6553D8ABB3 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
@@ -185,42 +239,6 @@
 				B55D077CBBC86273932D0DE7FE56BD9D /* Frameworks */,
 			);
 			name = Analytics;
-			sourceTree = "<group>";
-		};
-		AA941BF1027C4AB5F14BFFAB11298F0D /* Pods-mac-os-aTests */ = {
-			isa = PBXGroup;
-			children = (
-				DC5DAC71718E91774F0107781B75CBCD /* Info.plist */,
-				0577EA314154569E8BEDE60B55F39B2B /* Pods-mac-os-aTests.modulemap */,
-				F109879263B24E6A2B06BB0508A1D8CF /* Pods-mac-os-aTests-acknowledgements.markdown */,
-				351EBFD8D7C2C08DF3CF5EDCA6680319 /* Pods-mac-os-aTests-acknowledgements.plist */,
-				26DF563C686AC815C6B740F349997C5C /* Pods-mac-os-aTests-dummy.m */,
-				BB075EE64703DD652B41CFC9FBF3BB8D /* Pods-mac-os-aTests-frameworks.sh */,
-				E43E9A7D57853D5F8B42B359BE8FE049 /* Pods-mac-os-aTests-resources.sh */,
-				4E3F8382A623C203336A296E23F48870 /* Pods-mac-os-aTests-umbrella.h */,
-				8B77A140AF59479DEB587E9DA952DAA7 /* Pods-mac-os-aTests.debug.xcconfig */,
-				5ABE7729BABBFBDADD1EF0AEA14DE9D7 /* Pods-mac-os-aTests.release.xcconfig */,
-			);
-			name = "Pods-mac-os-aTests";
-			path = "Target Support Files/Pods-mac-os-aTests";
-			sourceTree = "<group>";
-		};
-		B1C39CBAB1134CC95F68DC49F1832ADC /* Pods-mac-os-a */ = {
-			isa = PBXGroup;
-			children = (
-				8560CF9B816516BF10C3BB417B39AD9D /* Info.plist */,
-				A2613C9DBBF6FF9B50B74EA453A7C149 /* Pods-mac-os-a.modulemap */,
-				1F9DD8CCD2F13DB5BA63E1BDC4DB42D2 /* Pods-mac-os-a-acknowledgements.markdown */,
-				F322C5E2045C3A5F20364BE7A3688607 /* Pods-mac-os-a-acknowledgements.plist */,
-				987F80D8FA5B182C9423EF7F5B4EB4B7 /* Pods-mac-os-a-dummy.m */,
-				93D569673708D191A564F6395A0E7196 /* Pods-mac-os-a-frameworks.sh */,
-				9BD85D64DCA55E8AA9547556255734A3 /* Pods-mac-os-a-resources.sh */,
-				B4FB83CD4AF06851F2AA537FDB91A424 /* Pods-mac-os-a-umbrella.h */,
-				59A4D32CCAD2E1241D282DD26ED3CB19 /* Pods-mac-os-a.debug.xcconfig */,
-				B154E2896B11749959958853910A33CD /* Pods-mac-os-a.release.xcconfig */,
-			);
-			name = "Pods-mac-os-a";
-			path = "Target Support Files/Pods-mac-os-a";
 			sourceTree = "<group>";
 		};
 		B55D077CBBC86273932D0DE7FE56BD9D /* Frameworks */ = {
@@ -247,24 +265,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		EC1EC42A5594299F27AF0AEF5AC4E3CF /* Pods-mac-os-aUITests */ = {
-			isa = PBXGroup;
-			children = (
-				D33016BC6B0496E98446EF94E43FC9B1 /* Info.plist */,
-				9F4ED59CD47267F25864D6D21C7919C1 /* Pods-mac-os-aUITests.modulemap */,
-				C6E988ECE2FFF44128486D4C49792706 /* Pods-mac-os-aUITests-acknowledgements.markdown */,
-				DBCC12108DE16AF774A43B76A6BA0D05 /* Pods-mac-os-aUITests-acknowledgements.plist */,
-				670C2097D6DF79C1EFF5354FA7355C00 /* Pods-mac-os-aUITests-dummy.m */,
-				B91A9E1BCAEACFE80ABE146CE8C0AC16 /* Pods-mac-os-aUITests-frameworks.sh */,
-				3CC8B3FDBC7AFF82C78ACCA9FE971CEB /* Pods-mac-os-aUITests-resources.sh */,
-				19B9F00DEDE8121221008D6EA2EA4194 /* Pods-mac-os-aUITests-umbrella.h */,
-				DD738FDB425E32715B2EC9238733932C /* Pods-mac-os-aUITests.debug.xcconfig */,
-				ACA024E1B047D368745C42DDABA58AC9 /* Pods-mac-os-aUITests.release.xcconfig */,
-			);
-			name = "Pods-mac-os-aUITests";
-			path = "Target Support Files/Pods-mac-os-aUITests";
-			sourceTree = "<group>";
-		};
 		EF9FEC41A271EB8FC7AAD0BEB08B8C36 /* Crashes */ = {
 			isa = PBXGroup;
 			children = (
@@ -276,82 +276,82 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		25798EC7E9A2FC08F6F1FEAB7DA1C72F /* Headers */ = {
+		13D489A0619DF9DD06D26C50943A5DD1 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				05329E38751C381AA3CE9CFED96E626C /* Pods-mac-os-a-umbrella.h in Headers */,
+				980A42BCD7853B9AB9B29BED1435996D /* Pods-macoshelloTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2CC31B3868C8CDE35F91E5414B2FE24B /* Headers */ = {
+		29B513359011E44AE1C3A771E0CACBB3 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				120217E233523D4C11A294A8C10AEA34 /* Pods-mac-os-aTests-umbrella.h in Headers */,
+				6455452B5D813FC0C861679C6355F88D /* Pods-macoshello-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F138BB2B3E7E51898DE15221BB4801D0 /* Headers */ = {
+		C9673D10A92FE879E6ACB97604DC821A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4F41A5B811CF9DAD5DA8AFA4DC94027A /* Pods-mac-os-aUITests-umbrella.h in Headers */,
+				B7AC4D0825716C506D7F8473F5AE144C /* Pods-macoshelloUITests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		03F9AB91A33FECAEE62747D2F6A0C9F8 /* Pods-mac-os-aUITests */ = {
+		87ED343E364834DA29D9B977D964952B /* Pods-macoshelloTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 005F4DEDC6F05F453BD415AD361D045C /* Build configuration list for PBXNativeTarget "Pods-mac-os-aUITests" */;
+			buildConfigurationList = 0E4EB94B7BD3F47AA2183CBFE50268AD /* Build configuration list for PBXNativeTarget "Pods-macoshelloTests" */;
 			buildPhases = (
-				85EC72E1E9F78DBB40B277495B2333F8 /* Sources */,
-				3B0CCD7F9E4B393979A8A37D852E39AB /* Frameworks */,
-				F138BB2B3E7E51898DE15221BB4801D0 /* Headers */,
+				4B6FF488C11FEB17463E35F788DA3F36 /* Sources */,
+				203978FA6AAE54FA6C611F0D3FE29602 /* Frameworks */,
+				13D489A0619DF9DD06D26C50943A5DD1 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-mac-os-aUITests";
-			productName = "Pods-mac-os-aUITests";
-			productReference = B94F14AC0CA76541B28DE79A2EFA46E9 /* Pods_mac_os_aUITests.framework */;
+			name = "Pods-macoshelloTests";
+			productName = "Pods-macoshelloTests";
+			productReference = 349A5F97E1E46521F1C081789D44224B /* Pods_macoshelloTests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		8F8850BC7FCC8422E5F6B4B31511CCD6 /* Pods-mac-os-a */ = {
+		9D98B3A8C48516BE79DDDBC5BDF3980F /* Pods-macoshello */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = C22748C857A8D61AD1EF6B070A2BB858 /* Build configuration list for PBXNativeTarget "Pods-mac-os-a" */;
+			buildConfigurationList = DCD2329D71E0D96D8E4F36648CA308CD /* Build configuration list for PBXNativeTarget "Pods-macoshello" */;
 			buildPhases = (
-				79C20A923BF73A8247C1F58E3D702BA4 /* Sources */,
-				A79D2E72A14180E01387571E8B9D0A95 /* Frameworks */,
-				25798EC7E9A2FC08F6F1FEAB7DA1C72F /* Headers */,
+				676E4F5D0D35983A9CCA81A6CCC33894 /* Sources */,
+				78103387737C8950D55327D07E0B08E2 /* Frameworks */,
+				29B513359011E44AE1C3A771E0CACBB3 /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-mac-os-a";
-			productName = "Pods-mac-os-a";
-			productReference = 5884A08A086FC215F9F57B56D8D8D828 /* Pods_mac_os_a.framework */;
+			name = "Pods-macoshello";
+			productName = "Pods-macoshello";
+			productReference = AC1B175D07A0E0A085326CFB19819771 /* Pods_macoshello.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		EED3A6C1271176D8D7AC3F321C10280F /* Pods-mac-os-aTests */ = {
+		C83CA0F080D0ACF93FAFA76FF813041C /* Pods-macoshelloUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B53D23BF5DB42E7B386BE135F5C71A34 /* Build configuration list for PBXNativeTarget "Pods-mac-os-aTests" */;
+			buildConfigurationList = 385CBF1C5FACEB30EB01466FDDB636DE /* Build configuration list for PBXNativeTarget "Pods-macoshelloUITests" */;
 			buildPhases = (
-				B7B7F8C7E3CE2644D39A577A5347EDFA /* Sources */,
-				E5F8F8361603B2FF67FEED23696BE48F /* Frameworks */,
-				2CC31B3868C8CDE35F91E5414B2FE24B /* Headers */,
+				F8354ECD8B34CE5A8137428DC1ACAA3C /* Sources */,
+				DADCE2D66D0F8ECE74E8F0AD502968D2 /* Frameworks */,
+				C9673D10A92FE879E6ACB97604DC821A /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-mac-os-aTests";
-			productName = "Pods-mac-os-aTests";
-			productReference = 1195286C74FC0BC85BEC942564DF6ABE /* Pods_mac_os_aTests.framework */;
+			name = "Pods-macoshelloUITests";
+			productName = "Pods-macoshelloUITests";
+			productReference = E4E3DEFF366621060F43D31F44098A0B /* Pods_macoshelloUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -371,48 +371,48 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 741A14CB8D7A4DFAA2FC05AA3C0CD7C1 /* Products */;
+			productRefGroup = 75A4EBA23F1FDEEFC6369FF988C46C05 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8F8850BC7FCC8422E5F6B4B31511CCD6 /* Pods-mac-os-a */,
-				EED3A6C1271176D8D7AC3F321C10280F /* Pods-mac-os-aTests */,
-				03F9AB91A33FECAEE62747D2F6A0C9F8 /* Pods-mac-os-aUITests */,
+				9D98B3A8C48516BE79DDDBC5BDF3980F /* Pods-macoshello */,
+				87ED343E364834DA29D9B977D964952B /* Pods-macoshelloTests */,
+				C83CA0F080D0ACF93FAFA76FF813041C /* Pods-macoshelloUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		79C20A923BF73A8247C1F58E3D702BA4 /* Sources */ = {
+		4B6FF488C11FEB17463E35F788DA3F36 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3BDA7C6462C8D2FA7B110DC45D2B890B /* Pods-mac-os-a-dummy.m in Sources */,
+				FAA11C96F20ABFA656BF482F5DEC1143 /* Pods-macoshelloTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		85EC72E1E9F78DBB40B277495B2333F8 /* Sources */ = {
+		676E4F5D0D35983A9CCA81A6CCC33894 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3A01FD30FE24D6608DA6CBEF97E27FEF /* Pods-mac-os-aUITests-dummy.m in Sources */,
+				2982009E9CAD38CB248A9303C4711ADB /* Pods-macoshello-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B7B7F8C7E3CE2644D39A577A5347EDFA /* Sources */ = {
+		F8354ECD8B34CE5A8137428DC1ACAA3C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				918B57B56F3B1B74B3D841F7A0F1E50B /* Pods-mac-os-aTests-dummy.m in Sources */,
+				11855D13BBA6003840BD7588E282E437 /* Pods-macoshelloUITests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		57088157AA549AD3B0DA790515358B5A /* Release */ = {
+		0E669CD2B0BE572092414F3EFA8A570B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5ABE7729BABBFBDADD1EF0AEA14DE9D7 /* Pods-mac-os-aTests.release.xcconfig */;
+			baseConfigurationReference = F777E09353C36E614A1055BA1A95B3EE /* Pods-macoshello.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -428,18 +428,18 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_VERSION = A;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-mac-os-aTests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-macoshello/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MODULEMAP_FILE = "Target Support Files/Pods-mac-os-aTests/Pods-mac-os-aTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-macoshello/Pods-macoshello.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_mac_os_aTests;
+				PRODUCT_NAME = Pods_macoshello;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -447,9 +447,46 @@
 			};
 			name = Release;
 		};
-		734DA5E344CA34C135F5F5BB75471AE6 /* Release */ = {
+		8C5F89C53F49D8E40380C88D199DDDA9 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B154E2896B11749959958853910A33CD /* Pods-mac-os-a.release.xcconfig */;
+			baseConfigurationReference = 1DFFF4461D05A0E7D154DB732AF39DE1 /* Pods-macoshelloTests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_VERSION = A;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-macoshelloTests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MODULEMAP_FILE = "Target Support Files/Pods-macoshelloTests/Pods-macoshelloTests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_macoshelloTests;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		97162EB86EE799053CCC52E4A3115945 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = EBB25F4D153BDFBFE63F7E727DAC6FC1 /* Pods-macoshelloTests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -465,98 +502,24 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_VERSION = A;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-mac-os-a/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-macoshelloTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MODULEMAP_FILE = "Target Support Files/Pods-mac-os-a/Pods-mac-os-a.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-macoshelloTests/Pods-macoshelloTests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_mac_os_a;
+				PRODUCT_NAME = Pods_macoshelloTests;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
-		};
-		8A089D20C04C55E55DEBA3E01F0B13AE /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 59A4D32CCAD2E1241D282DD26ED3CB19 /* Pods-mac-os-a.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_VERSION = A;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-mac-os-a/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MODULEMAP_FILE = "Target Support Files/Pods-mac-os-a/Pods-mac-os-a.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_mac_os_a;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		8DE647578A70ECCFA5B8A8C7FB0448FA /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8B77A140AF59479DEB587E9DA952DAA7 /* Pods-mac-os-aTests.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_VERSION = A;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-mac-os-aTests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MODULEMAP_FILE = "Target Support Files/Pods-mac-os-aTests/Pods-mac-os-aTests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_mac_os_aTests;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
 		};
 		C734A39EF0A2FD4BDDD7FE07639BA9C0 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -607,9 +570,9 @@
 			};
 			name = Debug;
 		};
-		FAB1803F26088123D9B3C0874A76E592 /* Release */ = {
+		E9BD63490EBFB49F80333AA0AEEBD124 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = ACA024E1B047D368745C42DDABA58AC9 /* Pods-mac-os-aUITests.release.xcconfig */;
+			baseConfigurationReference = C88C5F47CE7E7FC083D73C370ED391E2 /* Pods-macoshelloUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "-";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -625,24 +588,98 @@
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				FRAMEWORK_VERSION = A;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-mac-os-aUITests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-macoshelloUITests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MODULEMAP_FILE = "Target Support Files/Pods-mac-os-aUITests/Pods-mac-os-aUITests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-macoshelloUITests/Pods-macoshelloUITests.modulemap";
 				MTL_ENABLE_DEBUG_INFO = NO;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_mac_os_aUITests;
+				PRODUCT_NAME = Pods_macoshelloUITests;
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
+		};
+		ED294CC93E80D5228C533AF1042F0F85 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 04B738B4C7465402A42F74719A7F299C /* Pods-macoshelloUITests.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_VERSION = A;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-macoshelloUITests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MODULEMAP_FILE = "Target Support Files/Pods-macoshelloUITests/Pods-macoshelloUITests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_macoshelloUITests;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		F89CF729C24CED5BF8D2E8FF26B09E62 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E13023606AEC39E68CBA5487082CEE86 /* Pods-macoshello.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "-";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_VERSION = A;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-macoshello/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MACOSX_DEPLOYMENT_TARGET = 10.12;
+				MODULEMAP_FILE = "Target Support Files/Pods-macoshello/Pods-macoshello.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_macoshello;
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		FC4738C3605827B2CD972C349A860865 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -688,51 +725,14 @@
 			};
 			name = Release;
 		};
-		FE2453C72850BB1E9157574ED283A193 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DD738FDB425E32715B2EC9238733932C /* Pods-mac-os-aUITests.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "-";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				FRAMEWORK_VERSION = A;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-mac-os-aUITests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MODULEMAP_FILE = "Target Support Files/Pods-mac-os-aUITests/Pods-mac-os-aUITests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_mac_os_aUITests;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		005F4DEDC6F05F453BD415AD361D045C /* Build configuration list for PBXNativeTarget "Pods-mac-os-aUITests" */ = {
+		0E4EB94B7BD3F47AA2183CBFE50268AD /* Build configuration list for PBXNativeTarget "Pods-macoshelloTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FE2453C72850BB1E9157574ED283A193 /* Debug */,
-				FAB1803F26088123D9B3C0874A76E592 /* Release */,
+				8C5F89C53F49D8E40380C88D199DDDA9 /* Debug */,
+				97162EB86EE799053CCC52E4A3115945 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -746,20 +746,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B53D23BF5DB42E7B386BE135F5C71A34 /* Build configuration list for PBXNativeTarget "Pods-mac-os-aTests" */ = {
+		385CBF1C5FACEB30EB01466FDDB636DE /* Build configuration list for PBXNativeTarget "Pods-macoshelloUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8DE647578A70ECCFA5B8A8C7FB0448FA /* Debug */,
-				57088157AA549AD3B0DA790515358B5A /* Release */,
+				ED294CC93E80D5228C533AF1042F0F85 /* Debug */,
+				E9BD63490EBFB49F80333AA0AEEBD124 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		C22748C857A8D61AD1EF6B070A2BB858 /* Build configuration list for PBXNativeTarget "Pods-mac-os-a" */ = {
+		DCD2329D71E0D96D8E4F36648CA308CD /* Build configuration list for PBXNativeTarget "Pods-macoshello" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				8A089D20C04C55E55DEBA3E01F0B13AE /* Debug */,
-				734DA5E344CA34C135F5F5BB75471AE6 /* Release */,
+				F89CF729C24CED5BF8D2E8FF26B09E62 /* Debug */,
+				0E669CD2B0BE572092414F3EFA8A570B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

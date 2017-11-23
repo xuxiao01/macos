@@ -1,6 +1,0 @@
-framework module Pods_mac_os_aTests {
-  umbrella header "Pods-mac-os-aTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

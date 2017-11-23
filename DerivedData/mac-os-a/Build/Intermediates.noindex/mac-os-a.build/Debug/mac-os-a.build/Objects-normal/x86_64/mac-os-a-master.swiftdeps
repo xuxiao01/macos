@@ -1,7 +1,0 @@
-version: "Apple Swift version 4.0.1 (swiftlang-900.0.68 clang-900.0.38)"
-options: "be45c262869a7c688d85d84813183bf7"
-build_time: [1511415434, 738624000]
-inputs:
-  "/Users/bys/Documents/ava/mac-os-a/mac-os-a/ViewController.swift": [1511411463, 0]
-  "/Users/bys/Documents/ava/mac-os-a/mac-os-a/GameScene.swift": [1511405916, 0]
-  "/Users/bys/Documents/ava/mac-os-a/mac-os-a/AppDelegate.swift": [1511407809, 0]
