@@ -1,0 +1,87 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_a.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-mac-os-a-umbrella.h",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/Pods/Target Support Files/Pods-mac-os-a/Pods-mac-os-a-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_mac_os_a-Swift.h",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_a.framework/Versions/A/Headers/Pods_mac_os_a-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_a.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Intermediates.noindex/Pods.build/Debug/Pods-mac-os-a.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_aTests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-mac-os-aTests-umbrella.h",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/Pods/Target Support Files/Pods-mac-os-aTests/Pods-mac-os-aTests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_mac_os_aTests-Swift.h",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_aTests.framework/Versions/A/Headers/Pods_mac_os_aTests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_aTests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Intermediates.noindex/Pods.build/Debug/Pods-mac-os-aTests.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_aUITests.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-mac-os-aUITests-umbrella.h",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/Pods/Target Support Files/Pods-mac-os-aUITests/Pods-mac-os-aUITests-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_mac_os_aUITests-Swift.h",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_aUITests.framework/Versions/A/Headers/Pods_mac_os_aUITests-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Products/Debug/Pods_mac_os_aUITests.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/bys/Documents/ava/mac-os-a/DerivedData/mac-os-a/Build/Intermediates.noindex/Pods.build/Debug/Pods-mac-os-aUITests.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

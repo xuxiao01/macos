@@ -1,0 +1,168 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "mac_os_aUITests"
+provides-nominal:
+- "15mac_os_aUITestsAAC"
+provides-member:
+- ["15mac_os_aUITestsAAC", ""]
+provides-dynamic-lookup:
+- "setUp"
+- "tearDown"
+- "testExample"
+depends-top-level:
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "XCTestCase"
+- !private "XCUIApplication"
+- "mac_os_aUITests"
+depends-member:
+- !private ["s7CVarArgP", "XCUIApplication"]
+- !private ["s7CVarArgP", "continueAfterFailure"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "launch"]
+- !private ["s7CVarArgP", "setUp"]
+- !private ["s7CVarArgP", "tearDown"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "XCUIApplication"]
+- !private ["s28CustomDebugStringConvertibleP", "continueAfterFailure"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "launch"]
+- !private ["s28CustomDebugStringConvertibleP", "setUp"]
+- !private ["s28CustomDebugStringConvertibleP", "tearDown"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "XCUIApplication"]
+- !private ["s23CustomStringConvertibleP", "continueAfterFailure"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "launch"]
+- !private ["s23CustomStringConvertibleP", "setUp"]
+- !private ["s23CustomStringConvertibleP", "tearDown"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "XCUIApplication"]
+- !private ["s9EquatableP", "continueAfterFailure"]
+- !private ["s9EquatableP", "init"]
+- !private ["s9EquatableP", "launch"]
+- !private ["s9EquatableP", "setUp"]
+- !private ["s9EquatableP", "tearDown"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "XCUIApplication"]
+- !private ["s8HashableP", "continueAfterFailure"]
+- !private ["s8HashableP", "init"]
+- !private ["s8HashableP", "launch"]
+- !private ["s8HashableP", "setUp"]
+- !private ["s8HashableP", "tearDown"]
+- ["s8HashableP", ""]
+- !private ["So8NSObjectC", "XCUIApplication"]
+- !private ["So8NSObjectC", "continueAfterFailure"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "launch"]
+- ["So8NSObjectC", "setUp"]
+- ["So8NSObjectC", "tearDown"]
+- ["So8NSObjectC", "testExample"]
+- !private ["So16NSObjectProtocolP", "XCUIApplication"]
+- !private ["So16NSObjectProtocolP", "continueAfterFailure"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So16NSObjectProtocolP", "launch"]
+- !private ["So16NSObjectProtocolP", "setUp"]
+- !private ["So16NSObjectProtocolP", "tearDown"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So11XCTActivityP", "XCUIApplication"]
+- !private ["So11XCTActivityP", "continueAfterFailure"]
+- !private ["So11XCTActivityP", "init"]
+- !private ["So11XCTActivityP", "setUp"]
+- !private ["So11XCTActivityP", "tearDown"]
+- ["So11XCTActivityP", ""]
+- !private ["So17XCTWaiterDelegateP", "XCUIApplication"]
+- !private ["So17XCTWaiterDelegateP", "continueAfterFailure"]
+- !private ["So17XCTWaiterDelegateP", "init"]
+- !private ["So17XCTWaiterDelegateP", "setUp"]
+- !private ["So17XCTWaiterDelegateP", "tearDown"]
+- ["So17XCTWaiterDelegateP", ""]
+- !private ["So6XCTestC", "XCUIApplication"]
+- !private ["So6XCTestC", "continueAfterFailure"]
+- ["So6XCTestC", "init"]
+- ["So6XCTestC", "setUp"]
+- ["So6XCTestC", "tearDown"]
+- ["So6XCTestC", "testExample"]
+- !private ["So10XCTestCaseC", "XCUIApplication"]
+- !private ["So10XCTestCaseC", "continueAfterFailure"]
+- ["So10XCTestCaseC", "init"]
+- ["So10XCTestCaseC", "setUp"]
+- ["So10XCTestCaseC", "tearDown"]
+- ["So10XCTestCaseC", "testExample"]
+- ["So10XCTestCaseC", ""]
+- !private ["So15XCUIApplicationC", "init"]
+- !private ["So15XCUIApplicationC", "launch"]
+- !private ["So11XCUIElementC", "init"]
+- !private ["So11XCUIElementC", "launch"]
+- !private ["So21XCUIElementAttributesP", "init"]
+- !private ["So21XCUIElementAttributesP", "launch"]
+- !private ["So28XCUIElementTypeQueryProviderP", "init"]
+- !private ["So28XCUIElementTypeQueryProviderP", "launch"]
+- !private ["So23XCUIScreenshotProvidingP", "init"]
+- !private ["So23XCUIScreenshotProvidingP", "launch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "XCUIApplication"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "continueAfterFailure"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "launch"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "setUp"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tearDown"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["15mac_os_aUITestsAAC", "XCUIApplication"]
+- !private ["15mac_os_aUITestsAAC", "continueAfterFailure"]
+- ["15mac_os_aUITestsAAC", "deinit"]
+- ["15mac_os_aUITestsAAC", "init"]
+- ["15mac_os_aUITestsAAC", "setUp"]
+- ["15mac_os_aUITestsAAC", "tearDown"]
+- ["15mac_os_aUITestsAAC", "testExample"]
+depends-nominal:
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So11XCTActivityP"
+- "So17XCTWaiterDelegateP"
+- "So6XCTestC"
+- "So10XCTestCaseC"
+- !private "So15XCUIApplicationC"
+- !private "So11XCUIElementC"
+- !private "So21XCUIElementAttributesP"
+- !private "So28XCUIElementTypeQueryProviderP"
+- !private "So23XCUIScreenshotProvidingP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "15mac_os_aUITestsAAC"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreData.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreImage.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/QuartzCore.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Metal.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/AppKit.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XCTest.swiftmodule"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Modules/module.modulemap"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/xpc/XPC.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include/Darwin.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/Library/Frameworks/XCTest.framework/Headers/XCTest.apinotes"
+- "/Users/bys/Downloads/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+interface-hash: "3eeb4e6c84d95f639d35451dca114b90"

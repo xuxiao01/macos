@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.1 (swiftlang-900.0.68 clang-900.0.38)"
+options: "d3a514abef51c5694f731b629307e000"
+build_time: [1511415527, 889651000]
+inputs:
+  "/Users/bys/Documents/ava/mac-os-a/mac-os-aTests/mac_os_aTests.swift": [1511405916, 0]
