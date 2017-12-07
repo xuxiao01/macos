@@ -21,7 +21,7 @@ class AppDelegate: NSObject, NSApplicationDelegate,MSCrashesDelegate,MSPushDeleg
         MSAppCenter.setLogUrl("https://in-staging-south-centralus.staging.avalanch.es")
         MSCrashes.setDelegate(self)
         MSPush.setDelegate(self)
-        MSAppCenter.start("65e5567b-148c-465f-ad5b-bbbaebc891a5", withServices:[
+        MSAppCenter.start("2e023a1a-3dcc-4075-b0f0-77460fe475f7", withServices:[
             MSAnalytics.self,
             MSCrashes.self,
             MSPush.self
