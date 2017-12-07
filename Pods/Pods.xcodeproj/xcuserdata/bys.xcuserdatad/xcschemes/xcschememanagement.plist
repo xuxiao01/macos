@@ -4,45 +4,23 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Pods-macoshello.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<true/>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-		<key>Pods-macoshelloTests.xcscheme</key>
+		<key>Pods-macOS-Chao.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>1</integer>
 		</dict>
-		<key>Pods-macoshelloUITests.xcscheme</key>
+		<key>Pods-macOS-ChaoTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
-			<key>orderHint</key>
-			<integer>2</integer>
+		</dict>
+		<key>Pods-macOS-ChaoUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
-	<dict>
-		<key>87ED343E364834DA29D9B977D964952B</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9D98B3A8C48516BE79DDDBC5BDF3980F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C83CA0F080D0ACF93FAFA76FF813041C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-	</dict>
+	<dict/>
 </dict>
 </plist>

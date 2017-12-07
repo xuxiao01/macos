@@ -1,6 +1,0 @@
-framework module Pods_macoshelloUITests {
-  umbrella header "Pods-macoshelloUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
